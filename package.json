@@ -13,7 +13,7 @@
     "@react-native-community/progress-bar-android": "^1.0.3",
     "@react-native-community/progress-view": "^1.1.0",
     "react": "16.13.1",
-    "react-native": "0.63.2",
+    "react-native": "0.64.1",
     "react-native-pdf": "^6.2.0",
     "react-native-share": "^3.7.0",
     "rn-fetch-blob": "^0.12.0"
